@@ -15,13 +15,6 @@ This is a personal portfolio website for **Alucard Dracula**, showcasing skills,
 - **CSS**: For styling, animations, and responsive design.
 - **JavaScript**: For implementing dark mode toggle and saving user preferences.
 
-## File Structure
-portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles for the website
-├── script.js           # JavaScript for dark mode functionality
-├── profile-image.jpg   # Profile picture
-
 ## How to Use
 
 1. Clone the repository or download the files.
